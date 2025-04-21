@@ -1,4 +1,4 @@
-![](/home/sladekm/git/TTL-logic-probe/Pictures/TtlLogicProbe.jpg)
+![](Pictures/TtlLogicProbe.jpg)
 
 ## TTL logic probe with counter
 
